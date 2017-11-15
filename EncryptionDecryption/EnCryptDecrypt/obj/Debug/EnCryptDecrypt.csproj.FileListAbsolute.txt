@@ -1,0 +1,10 @@
+C:\Users\dhiraj\Desktop\Cryptography_src\EnCryptDecrypt\EnCryptDecrypt\bin\Debug\EnCryptDecrypt.exe.config
+C:\Users\dhiraj\Documents\Visual Studio 2015\Projects\WindowsSelling\EncryptionDecryption\EnCryptDecrypt\bin\Debug\EnCryptDecrypt.exe.config
+C:\Users\dhiraj\Documents\Visual Studio 2015\Projects\WindowsSelling\EncryptionDecryption\EnCryptDecrypt\bin\Debug\EnCryptDecrypt.exe
+C:\Users\dhiraj\Documents\Visual Studio 2015\Projects\WindowsSelling\EncryptionDecryption\EnCryptDecrypt\bin\Debug\EnCryptDecrypt.pdb
+C:\Users\dhiraj\Documents\Visual Studio 2015\Projects\WindowsSelling\EncryptionDecryption\EnCryptDecrypt\obj\Debug\EnCryptDecrypt.csprojResolveAssemblyReference.cache
+C:\Users\dhiraj\Documents\Visual Studio 2015\Projects\WindowsSelling\EncryptionDecryption\EnCryptDecrypt\obj\Debug\EnCryptDecrypt.frmMain.resources
+C:\Users\dhiraj\Documents\Visual Studio 2015\Projects\WindowsSelling\EncryptionDecryption\EnCryptDecrypt\obj\Debug\EnCryptDecrypt.Properties.Resources.resources
+C:\Users\dhiraj\Documents\Visual Studio 2015\Projects\WindowsSelling\EncryptionDecryption\EnCryptDecrypt\obj\Debug\EnCryptDecrypt.csproj.GenerateResource.Cache
+C:\Users\dhiraj\Documents\Visual Studio 2015\Projects\WindowsSelling\EncryptionDecryption\EnCryptDecrypt\obj\Debug\EnCryptDecrypt.exe
+C:\Users\dhiraj\Documents\Visual Studio 2015\Projects\WindowsSelling\EncryptionDecryption\EnCryptDecrypt\obj\Debug\EnCryptDecrypt.pdb

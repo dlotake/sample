@@ -1,0 +1,8 @@
+Message : C:\Users\dhiraj\Documents\Visual Studio 2015\Projects\WindowsSelling\WindowsSelling\bin\ufonts.com_century-gothic.ttf not found as file or resource.
+Error :    at iTextSharp.text.io.RandomAccessSourceFactory.CreateByReadingToMemory(String filename)
+   at iTextSharp.text.io.RandomAccessSourceFactory.CreateBestSource(String filename)
+   at iTextSharp.text.pdf.TrueTypeFont.Process(Byte[] ttfAfm, Boolean preload)
+   at iTextSharp.text.pdf.TrueTypeFont..ctor(String ttFile, String enc, Boolean emb, Byte[] ttfAfm, Boolean justNames, Boolean forceRead)
+   at iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded, Boolean cached, Byte[] ttfAfm, Byte[] pfb, Boolean noThrow, Boolean forceRead)
+   at iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded)
+   at WindowsSelling.BusinessModel.PrintingOperations.SalePrint(Int32 SaleId) in C:\Users\dhiraj\Documents\Visual Studio 2015\Projects\WindowsSelling\WindowsSelling\BusinessModel\PrintingOperations.cs:line 36
