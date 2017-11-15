@@ -15,6 +15,7 @@ namespace WindowsSelling
         [STAThread]
         static void Main()
        {            
+            // security check.
             if (Security.CheckSerialKey())
             {
                 Security.CheckSerialKey();
